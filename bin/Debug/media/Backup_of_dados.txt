@@ -1,0 +1,35 @@
+mamifero 1
+asas 1
+morcego 0
+NULL
+NULL
+roedor 1
+queijo 1
+rato 0
+NULL
+NULL
+capivara 0
+NULL
+NULL
+primata 1
+macaco 0
+NULL
+NULL
+cachorro 0
+NULL
+NULL
+ave 1
+galinha 0
+NULL
+NULL
+anfibio 1
+sapo 0
+NULL
+NULL
+reptil 1
+cobra 0
+NULL
+NULL
+peixe 0
+NULL
+NULL

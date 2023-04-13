@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1351304738 source:c:\users\douglas\dropbox\trabalho\versao original\qual o bicho\src\arvore.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<Arvore.h>
+
+1351245124 
+
+1351226852 c:\users\douglas\dropbox\trabalho\versao original\qual o bicho\include\arvore.h
+
+1351304655 source:c:\users\douglas\dropbox\trabalho\versao original\qual o bicho\src\bicho.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<Bicho.h>
+	<Caracteres.h>
+
+1351304698 s.h>
+
+1351245124 c:\users\douglas\dropbox\trabalho\versao original\qual o bicho\include\bicho.h
+	"Arvore.h"
+
+1351245173 c:\users\douglas\dropbox\trabalho\versao original\qual o bicho\include\caracteres.h
+
+1351304698 source:c:\users\douglas\dropbox\trabalho\versao original\qual o bicho\src\caracteres.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<Caracteres.h>
+
+1351301263 source:c:\users\douglas\dropbox\trabalho\versao original\qual o bicho\main.c
+	<stdio.h>
+	<stdlib.h>
+	<Bicho.h>
+
+1351301263 
+
+1351301263 source:/home/igorcouto/Área de Trabalho/Qual o Bicho/main.c
+	<stdio.h>
+	<stdlib.h>
+	<Bicho.h>
+
+1351245124 /home/igorcouto/Área de Trabalho/Qual o Bicho/include/Bicho.h
+	"Arvore.h"
+
+1351226852 /home/igorcouto/Área de Trabalho/Qual o Bicho/include/Arvore.h
+
+1351304738 source:/home/igorcouto/Área de Trabalho/Qual o Bicho/src/Arvore.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<Arvore.h>
+
+1351304655 source:/home/igorcouto/Área de Trabalho/Qual o Bicho/src/Bicho.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<Bicho.h>
+	<Caracteres.h>
+
+1351245173 /home/igorcouto/Área de Trabalho/Qual o Bicho/include/Caracteres.h
+
+1351304698 source:/home/igorcouto/Área de Trabalho/Qual o Bicho/src/Caracteres.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<Caracteres.h>
+
